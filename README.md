@@ -1,2 +1,2 @@
 # maze-game
-Creating a maze game using maze.js
+Creating a cursor maze game using javascript.
